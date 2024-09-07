@@ -91,7 +91,8 @@ a {
   background: #f4f4fd;
 }
 
-.item-team {
+.item-team,
+.item-portfolio {
   background-color: #ffffff;
 }
 
