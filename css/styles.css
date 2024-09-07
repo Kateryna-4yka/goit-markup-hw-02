@@ -90,9 +90,11 @@ a {
 .team {
   background: #f4f4fd;
 }
-.list-team {
-  background: #fff;
+
+.item-team {
+  background-color: #ffffff;
 }
+
 .title-team {
   font-size: 36px;
   line-height: 1.11;
