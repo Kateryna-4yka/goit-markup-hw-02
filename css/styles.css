@@ -138,6 +138,7 @@ a {
   text-transform: capitalize;
 }
 .list-portfolio,
-.list-team {
+.list-team,
+.list-company {
   background-color: #ffffff;
 }
